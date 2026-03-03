@@ -1,0 +1,10 @@
+title: TopGamingBD
+description: বাংলাদেশ অনলাইন গেমিং গাইড — JILI, PG Soft, Live Casino
+baseurl: "/topgamingbd"
+url: "https://bb8bdt-ops.github.io"
+lang: bn
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
